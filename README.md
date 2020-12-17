@@ -16,10 +16,10 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Developer comments
 
-# Why Next.js?
+### Why Next.js?
 
 Next.js is a modern framework for React, it let's you create React apps without having to worry about using bundlers like Webpack and transform the code using a compiler like Babel. So any user can clone this repo and then easily run the project on (almost) any machine.
 
-# To whom it may concern:
+#### To whom it may concern:
 
 I'm sorry for the rather simple icons, I did them all by hand (Good old pure CSS). Also sorry for all the tiny little details I couldn't achieve, I had the clock ticking on my back and styling takes so much time.
