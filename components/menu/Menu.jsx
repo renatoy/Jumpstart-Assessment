@@ -27,15 +27,6 @@ const Menu = () => {
                 </div>
             </div>
         </div>
-        // <div className={styles.menuContainer}>
-        //     <nav className={styles.menu}>
-        //         <ul>
-        //             <li><a href="/Download">Download</a></li>
-        //             <li><a href="/Print">Print</a></li>
-        //             <li><a href="/Delete">Delete</a></li>
-        //         </ul>
-        //     </nav>
-        // </div>
     )
 };
 

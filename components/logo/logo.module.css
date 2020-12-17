@@ -11,13 +11,12 @@
     margin: 25px 0 0 0;
 }
 
-/*********************************************/
+/****************** Notebook logo starts here***************************/
 
 .noteBook {
     box-sizing: border-box;
     position: relative;
     display: block;
-    /* transform: scale(var(--ggs,1)); */
     width: 25px;
     height: 26.5931396484375px;
     border: solid #DA0703 1px;
